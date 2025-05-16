@@ -1,1 +1,1 @@
-This is a test repo which will bw used for practicing markdowns
+This is a test repo which will be used for practicing markdowns
